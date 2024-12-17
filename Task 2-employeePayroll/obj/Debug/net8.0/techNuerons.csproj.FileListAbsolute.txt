@@ -1,0 +1,42 @@
+D:\techNuerons\obj\Debug\net8.0\techNuerons.GeneratedMSBuildEditorConfig.editorconfig
+D:\techNuerons\obj\Debug\net8.0\techNuerons.AssemblyInfoInputs.cache
+D:\techNuerons\obj\Debug\net8.0\techNuerons.AssemblyInfo.cs
+D:\techNuerons\obj\Debug\net8.0\techNuerons.csproj.CoreCompileInputs.cache
+D:\techNuerons\bin\Debug\net8.0\techNuerons.exe
+D:\techNuerons\bin\Debug\net8.0\techNuerons.deps.json
+D:\techNuerons\bin\Debug\net8.0\techNuerons.runtimeconfig.json
+D:\techNuerons\bin\Debug\net8.0\techNuerons.dll
+D:\techNuerons\bin\Debug\net8.0\techNuerons.pdb
+D:\techNuerons\obj\Debug\net8.0\techNuerons.dll
+D:\techNuerons\obj\Debug\net8.0\refint\techNuerons.dll
+D:\techNuerons\obj\Debug\net8.0\techNuerons.pdb
+D:\techNuerons\obj\Debug\net8.0\techNuerons.genruntimeconfig.cache
+D:\techNuerons\obj\Debug\net8.0\ref\techNuerons.dll
+D:\techNuerons\Payroll\bin\Debug\net8.0\techNuerons.exe
+D:\techNuerons\Payroll\bin\Debug\net8.0\techNuerons.deps.json
+D:\techNuerons\Payroll\bin\Debug\net8.0\techNuerons.runtimeconfig.json
+D:\techNuerons\Payroll\bin\Debug\net8.0\techNuerons.dll
+D:\techNuerons\Payroll\bin\Debug\net8.0\techNuerons.pdb
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.GeneratedMSBuildEditorConfig.editorconfig
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.AssemblyInfoInputs.cache
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.AssemblyInfo.cs
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.csproj.CoreCompileInputs.cache
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.dll
+D:\techNuerons\Payroll\obj\Debug\net8.0\refint\techNuerons.dll
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.pdb
+D:\techNuerons\Payroll\obj\Debug\net8.0\techNuerons.genruntimeconfig.cache
+D:\techNuerons\Payroll\obj\Debug\net8.0\ref\techNuerons.dll
+D:\TechnoHub\Technerons\Task 2-employeePayroll\bin\Debug\net8.0\techNuerons.exe
+D:\TechnoHub\Technerons\Task 2-employeePayroll\bin\Debug\net8.0\techNuerons.deps.json
+D:\TechnoHub\Technerons\Task 2-employeePayroll\bin\Debug\net8.0\techNuerons.runtimeconfig.json
+D:\TechnoHub\Technerons\Task 2-employeePayroll\bin\Debug\net8.0\techNuerons.dll
+D:\TechnoHub\Technerons\Task 2-employeePayroll\bin\Debug\net8.0\techNuerons.pdb
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.AssemblyInfoInputs.cache
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.AssemblyInfo.cs
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.csproj.CoreCompileInputs.cache
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.dll
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\refint\techNuerons.dll
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.pdb
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.genruntimeconfig.cache
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\ref\techNuerons.dll
