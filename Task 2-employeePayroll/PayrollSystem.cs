@@ -50,7 +50,7 @@ class Intern : BaseEmployee
 
     public override double CalculateSalary()
     {
-        return BasicPay + Stipend; 
+        return BasicPay + Stipend;
     }
 }
 
@@ -59,7 +59,7 @@ class PayrollSystem
     private List<BaseEmployee> employees = new List<BaseEmployee>();
     private const string FilePath = "employees.txt";
 
-   
+
     public void AddEmployee()
     {
         Console.WriteLine("Enter Employee Role (Manager/Developer/Intern):");
@@ -109,7 +109,7 @@ class PayrollSystem
         Console.WriteLine("Employee added successfully.");
     }
 
-   
+
     public void DisplayEmployees()
     {
         if (employees.Count == 0)
@@ -124,7 +124,7 @@ class PayrollSystem
         }
     }
 
-   
+
     public void DisplaySalaries()
     {
         foreach (var employee in employees)
@@ -133,7 +133,7 @@ class PayrollSystem
         }
     }
 
-   
+
     public void SaveToFile()
     {
         using StreamWriter writer = new StreamWriter(FilePath);
@@ -155,12 +155,12 @@ class PayrollSystem
         employees.Clear();
         foreach (var line in File.ReadLines(FilePath))
         {
-            Console.WriteLine(line); 
+            Console.WriteLine(line);
         }
         Console.WriteLine("Employees loaded from file.");
     }
 
-  
+
     public void Menu()
     {
         while (true)
@@ -172,7 +172,7 @@ class PayrollSystem
             Console.WriteLine("4. Save to File");
             Console.WriteLine("5. Load from File");
             Console.WriteLine("6. Exit");
-
+            Console.WriteLine("---------------------------");
             Console.WriteLine("Enter your choice:");
             int choice = int.Parse(Console.ReadLine());
 

@@ -40,3 +40,4 @@ D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\refint\techNuero
 D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.pdb
 D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.genruntimeconfig.cache
 D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\ref\techNuerons.dll
+D:\TechnoHub\Technerons\Task 2-employeePayroll\obj\Debug\net8.0\techNuerons.sourcelink.json
